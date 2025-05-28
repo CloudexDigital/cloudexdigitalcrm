@@ -1,0 +1,56 @@
+/* 1. Full‐screen centered container with gradient background */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  animation: bgFade 3s ease forwards;
+}
+
+/* Fade the background in from black */
+@keyframes bgFade {
+  from { background: #000 }
+  to   { /* final gradient is above */ }
+}
+
+/* 2. Logo styling */
+.logo {
+  position: relative;
+  font-family: "Fredoka One", sans-serif;
+  font-size: 4.5rem;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #ffffff, #5d0172, #ffffff);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  animation: shine 3s ease-in-out infinite, fadeInText 1.5s ease both;
+}
+
+/* 3. Shine sweep across the text */
+@keyframes shine {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+/* 4. Fade in the text */
+@keyframes fadeInText {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* 5. Responsive scaling */
+@media (max-width: 768px) {
+  .container{
+padding: 2rem;
+  }
+  .logo {
+    font-size: 3rem;
+  }
+}

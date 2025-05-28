@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Geraldton Pizza & Subs",
+    "address": "517 Geraldton Main St, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-0078",
+    "website": "http://www.dominos.com.au",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Freshslice Pizza",
+    "address": "804 Main St, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-1160",
+    "website": "https://www.freshslice.com",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Thunderbird Friendship Centre of Geraldton",
+    "address": "301 Beamish Ave W, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-1060",
+    "website": "http://www.greenstone.ca",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Queen's Chinese Food",
+    "address": "904 Geraldton Main, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-1111",
+    "website": "http://chinaqueen.net",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Robin's Donuts",
+    "address": "404 Main St, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-0440",
+    "website": "https://locations.robinsdonuts.com/ll/CA/Ontario/Geraldton/404-Main-St_",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Geraldton Medical Clinic",
+    "address": "500 Hogarth Ave W, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-0224",
+    "website": "http://geraldtondh.com",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Subway",
+    "address": "306 Main St, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-2200",
+    "website": "http://www.subway.com/",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Community Care Access Ctr",
+    "address": "510 Hogarth Ave W, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-2292",
+    "website": "http://healthcareathome.ca",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Rochon Building Corp",
+    "address": "305 Main St, Greenstone ON",
+    "phone": "(807) 854-0889",
+    "website": "http://www.rochonbuildingcorp.com",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Val's Variety",
+    "address": "211 Geraldton Main St, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-0289",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Geraldton District Hospital",
+    "address": "500 Hogarth Ave W, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-1862",
+    "website": "http://www.geraldtondh.com",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Beer Store",
+    "address": "100 1st St W, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-0292",
+    "website": "http://www.thebeerstore.ca/",
+    "rating": 6.4,
+    "reviews": 0
+  },
+  {
+    "name": "Thunder Bay District Hlth Unit",
+    "address": "510 Hogarth Ave W, Geraldton ON P0T 1M0",
+    "phone": "(807) 854-0454",
+    "website": "http://www.tbdhu.com",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "No Frills",
+    "address": "1020 Main St (Clarke Ave. W), Geraldton ON P0T 1M0",
+    "phone": "(866) 987-6453",
+    "website": "https://www.nofrills.ca/store-locator/details/7175",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Sandbanks",
+    "address": "100 Main St, Geraldton ON P0T 1M0",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "name": "The Apple Bite",
+    "address": "95 Van Riebeeck Ave, Edenvale, 1609",
+    "phone": "011 452 2939",
+    "website": "https://www.theapplebite.co.za",
+    "rating": 7,
+    "reviews": 16
+  },
+  {
+    "name": "Liquid Colours",
+    "address": "69 Brunton Circle, Founders View South, Edenvale, 1609",
+    "phone": "011 372 4600",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Applebite",
+    "address": "1610",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Chamdor Factory Sales",
+    "address": "86 Van Riebeeck St, Edenvale",
+    "phone": "011 609 0540",
+    "website": null,
+    "rating": 6.1,
+    "reviews": 9
+  },
+  {
+    "name": "Ekurhuleni Municipality",
+    "address": "1609",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "SARS Edenvale",
+    "address": "Van Riebeck St (at Hendrik Potgieter St.), Edenvale, 1609",
+    "phone": "082 063 5543",
+    "website": "http://www.sars.gov.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Psychic Zamar and Chief Traditional Healers and Spell casters",
+    "address": "4th Ave, Edenvale, 1609",
+    "phone": "081 313 3539",
+    "website": "https://www.psychiczamar.com",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "African Sushi",
+    "address": "70 Andries Pretorius Rd, Centurion, 1609",
+    "phone": "083 229 4459",
+    "website": "http://www.da2828.wix.com/africansushi",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "GM Williams Hunt Edenvale",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Cafe Di Stefano",
+    "address": "Edenvale, 1609",
+    "phone": "011 452 2691",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Kinaree Thai Restaurant",
+    "address": "134 10th St (btwn 7th Avenue & 8th Avenue), Edenvale, 1609",
+    "phone": "011 609 4709",
+    "website": "http://www.kinareethairestaurant.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "De Molen Pancake House",
+    "address": "47 Van Riebeeck Ave, Edenvale, 1609",
+    "phone": "011 453 2222",
+    "website": "http://www.debackery.co.za",
+    "rating": 7.8,
+    "reviews": 20
+  },
+  {
+    "name": "Fahrenheit Seafood & Grill",
+    "address": "Cnr Terrace, 1 Hudson Ave (Terrace Rd.), Edenvale, 1609",
+    "phone": "011 452 9704",
+    "website": "http://www.fgrill.co.za",
+    "rating": 8,
+    "reviews": 69
+  },
+  {
+    "name": "Barcelos",
+    "address": "86 Andries Pretorius St, Edenvale, 1609",
+    "phone": "011 452 6303",
+    "website": "http://www.barcelos.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "De Backery Pty. Ltd.",
+    "address": "47 Van Riebeeck Ave, Edenvale, 1609",
+    "phone": "011 453 8174",
+    "website": "http://www.debackery.co.za",
+    "rating": 7.4,
+    "reviews": 21
+  },
+  {
+    "name": "Edenvale Suzuki",
+    "address": "137 Van Riebeeck Ave, Edenvale, 1609",
+    "phone": "011 452 6613",
+    "website": "http://www.edenvalesuzuki.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Shawa Holdings Pty. Ltd.",
+    "address": "60 10th Ave, Edenvale, 1609",
+    "phone": "061 090 0953",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Joint Effort",
+    "address": "147 Van Riebeeck Ave, Edenvale, 4420",
+    "phone": "011 609 2025",
+    "website": "http://www.jointeffort.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Traditional Triumph",
+    "address": "147 Van Riebeeck Ave, Edenvale, 1609",
+    "phone": "011 609 4590",
+    "website": "http://traditionaltriumph.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Edenvale Methodist Church",
+    "address": "57 6th Ave, Edenvale, 1610",
+    "phone": "011 452 1135",
+    "website": "http://www.emc.org.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Trim Park",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Wild Bean Cafe",
+    "address": "Rondebult Rd, Boksburg, 1459",
+    "phone": "087 004 3972",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Auto Aircon Exchange Pty. Ltd.",
+    "address": "38 Plantation Rd, Edenvale, 1609",
+    "phone": "011 452 1602",
+    "website": "http://www.wesellparts.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Trio Spares",
+    "address": "2 Plantation Rd, Edenvale, 1609",
+    "phone": "011 452 9865",
+    "website": "http://triospares.yellowpages.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Bosco Printed Circuits Pty. Ltd.",
+    "address": "1 Terrace Rd, Edenvale, 6160",
+    "phone": "011 609 6170",
+    "website": "http://www.bosco.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Party Hire",
+    "address": "23 Fountain Rd, Edenvale, 1609",
+    "phone": "011 452 3433",
+    "website": "http://www.partyhireservices.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Aluglass Bautech",
+    "address": "25 Fountain Rd, Edenvale, 6160",
+    "phone": "011 451 8400",
+    "website": "http://www.aluglass.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "G.H.Kruger Refractories Pty. Ltd.",
+    "address": "15 Fountainweg, Edenvale, 6160",
+    "phone": "011 609 5319",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Supreme Auto",
+    "address": "Edenvale",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Langa",
+    "address": "3A Plantation Rd, Edenvale, 1610",
+    "phone": "011 454 6909",
+    "website": "http://www.langasecurity.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "1 Bosco park , terrace road , eastlaigh",
+    "address": "1 Bosco Park (terrace road), 1610",
+    "phone": "011 452 5040",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Warren Holland - Liberty",
+    "address": "51 6th Ave, Edenvale, 1609",
+    "phone": "082 783 8739",
+    "website": "http://www.liberty.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "German Club",
+    "address": "8-10 Plantation Rd, Edenvale, 1609",
+    "phone": "011 609 2225",
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Full Throttle",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Basket Warehouse",
+    "address": "18 Edendale Rd, Edenvale, 1609",
+    "phone": "011 452 0247",
+    "website": "http://www.baskets.co.za",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "MeiMeg Electronics",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "New Apostolic Church - Edenvale",
+    "address": "Cook (Terrace)",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "name": "Milky Lane",
+    "address": "Greenstone Shopping Mall",
+    "phone": null,
+    "website": "https://milkylane.co.za",
+    "rating": null,
+    "reviews": null
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "cloudexdigitacrm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.20.0",
+    "@googlemaps/google-maps-services-js": "^3.4.1",
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "mongodb": "^6.16.0",
+    "next": "15.3.2",
+    "puppeteer": "^24.9.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "yelp-fusion": "^3.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4"
+  }
+}

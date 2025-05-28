@@ -1,0 +1,102 @@
+.container {
+  padding: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.header { text-align: center; margin-top: 2rem; margin-bottom: 1rem; }
+.title  { font-size: 2rem; color: #fff; font-weight: 600;margin-bottom: 2rem; }
+
+.form {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.input {
+  flex: 1;
+  min-width: 150px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 55px;
+}
+.button {
+  padding: 0.75rem 1.5rem;
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #cccccc6d;
+  border-radius: 55px;
+  cursor: pointer;
+}
+.button:disabled { opacity: 0.6; cursor: not-allowed; }
+.error { color: red; text-align: center; margin-bottom: 1rem; }
+.button:hover{
+  background-color: #fff;
+  color: #000;
+}
+/* Save-folder UI */
+.saveFolder {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.saveinput {
+  flex: 1;
+  min-width: 150px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  width: 25%;
+  border-radius: 55px;
+}
+.saveDbBtn {
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #a00082;
+  border-radius: 25px;
+  width: 10%;
+  cursor: pointer;
+}
+.saveDbBtn:hover { background-color: #a00082; }
+.saveMsg {
+  margin-left: 0.5rem;
+  color: #28a745;
+  font-weight: 600;
+}
+
+/* Table styling */
+.tableContainer {
+  overflow-x: auto;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px;
+}
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+.table th {
+  background-color: #2c2c2c;
+  color: #fff;
+}
+.table tr:hover {
+  background-color: #f2f2f22a;
+}
+.table a {
+  color: #4eaefa;
+  text-decoration: none;
+}
+
+/* Mobile: horizontal scroll only */
+@media (max-width: 600px) {
+  .table td,
+  .table th {
+    white-space: nowrap;
+  }
+}
